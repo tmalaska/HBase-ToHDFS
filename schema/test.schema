@@ -1,0 +1,13 @@
+{"namespace": "example.avro",
+ "type": "record",
+ "name": "Test",
+ "fields": [
+     {"name": "C1", "type": "string"},
+     {"name": "C3", "type": "string"},
+     {"name": "C4", "type": "string"},
+     {"name": "C5", "type": "string"},
+     {"name": "C6", "type": "string"},
+     {"name": "C7", "type": "string"},
+     {"name": "C8", "type": "string"}
+ ]
+}
